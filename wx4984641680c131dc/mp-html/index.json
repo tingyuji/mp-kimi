@@ -1,0 +1,1 @@
+{"component":true,"usingComponents":{"node":"./node/node","mp-html":"./index","wxml-to-canvas":"../wxml-to-canvas/index"}}

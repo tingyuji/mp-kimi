@@ -1,0 +1,1 @@
+<canvas id="canvas" style="width: {{width}}px; height: {{height}}px;" type="2d"></canvas>

@@ -1,0 +1,66 @@
+{
+  "supportedMaterials": [
+    {
+      "materialType": "text/plain",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 处理文件，不只是存档",
+      "path": "pages/chat/index"
+    },
+    {
+      "materialType": "application/pdf",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 读 PDF，可翻译 / 摘要 / 扫描版文字识别",
+      "path": "pages/chat/index"
+    },
+    {
+      "materialType": "application/msword",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 处理文件，不只是存档",
+      "path": "pages/chat/index"
+    },
+    {
+      "materialType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 处理文件，不只是存档",
+      "path": "pages/chat/index"
+    },
+    {
+      "materialType": "application/vnd.ms-excel",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 处理文件，不只是存档",
+      "path": "pages/chat/index"
+    },
+    {
+      "materialType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 处理文件，不只是存档",
+      "path": "pages/chat/index"
+    },
+    {
+      "materialType": "application/vnd.ms-powerpoint",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 处理文件，不只是存档",
+      "path": "pages/chat/index"
+    },
+    {
+      "materialType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "name": "用 ${nickname} 打开",
+      "desc": "让 AI 处理文件，不只是存档",
+      "path": "pages/chat/index"
+    }
+  ],
+  "__usePrivacyCheck__": true,
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "Kimi",
+    "navigationBarBackgroundColor": "#16161a"
+  },
+  "pages": [
+    "pages/chat/index",
+    "pages/chat/list",
+    "pages/chat/share",
+    "pages/login/index",
+    "pages/webview/index"
+  ]
+}
